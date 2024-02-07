@@ -43,6 +43,8 @@ In the ever-expanding digital landscape of the entertainment industry, the relev
 ### Project objective:
 
 #### WatchWiz: Your Ultimate Movie Recommender App!
+![WatchWiz Logo](https://github.com/Christelle278/Unsupervised-Learning-Sprint-2307FTDS-Team-NM3/assets/142970095/35937ff0-4832-4179-bf85-0d508d367a7b)
+
 
 The primary objective is to develop a functional recommender system that excels in predicting user preferences for unseen movies. The system should leverage either content-based filtering or collaborative filtering approach to achieve accurate predictions. By analyzing user historical data, including viewing habits, ratings, and interactions, the recommender system should provide valuable insights into individual preferences, ultimately enhancing user satisfaction and engagement.
 
@@ -83,17 +85,16 @@ The repository contains the following resources:
 
 ## Links:
 
-Kaggle competition: [here]([https://www.kaggle.com/competitions/ea-twitter-sentiment-classification-2023-2024/leaderboard](https://www.kaggle.com/competitions/ea-movie-recommendation-predict-2023-2024/overview))
+Kaggle competition: [here](https://www.kaggle.com/competitions/ea-movie-recommendation-predict-2023-2024/overview)
 
-Trello: [here]([https://trello.com/b/LOYQ6RpI/team-eg2-classification](https://trello.com/b/CgG83gS3/unsupervised-learning-sprint-2307ftds-team-nm3))
+Trello: [here](https://trello.com/b/CgG83gS3/unsupervised-learning-sprint-2307ftds-team-nm3)
 
-Presentation: [here]([https://www.canva.com/design/DAF2LoguYXw/3EtQqpfPqrG7BxnL9lwYKA/edit?utm_content=DAF2LoguYXw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAF7j-DC0o8/8N0TxE7zjaBFUi3dq2SWRQ/edit?utm_content=DAF7j-DC0o8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))
+Presentation: [here](https://www.canva.com/design/DAF7j-DC0o8/8N0TxE7zjaBFUi3dq2SWRQ/edit?utm_content=DAF7j-DC0o8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-Streamlit app walk-through: [here]([https://www.loom.com/share/13cbf1b31c3d4147815b50a69db40448?sid=45bff042-cf68-4fc7-a9bd-04667639e9e2](https://www.loom.com/share/24e384d8ebba49dfaaf644fcc6d7aa8b))
+Streamlit app walk-through: [here](https://www.loom.com/share/24e384d8ebba49dfaaf644fcc6d7aa8b)
 
 ## Comet:
 
-![Experiments](![Experiments](https://github.com/Christelle278/Unsupervised-Learning-Sprint-2307FTDS-Team-NM3/assets/142970095/0dcf4c15-9e07-4b7d-b23d-342be262c1aa))
+![Experiments](https://github.com/Christelle278/Unsupervised-Learning-Sprint-2307FTDS-Team-NM3/assets/142970095/0dcf4c15-9e07-4b7d-b23d-342be262c1aa)
 
-![Logistic_Regression_Metrics](![SVD_pp](https://github.com/Christelle278/Unsupervised-Learning-Sprint-2307FTDS-Team-NM3/assets/142970095/843cb646-b5d3-443a-8d99-34f93d0d332c)
-)
+![SVD_pp](https://github.com/Christelle278/Unsupervised-Learning-Sprint-2307FTDS-Team-NM3/assets/142970095/843cb646-b5d3-443a-8d99-34f93d0d332c)
