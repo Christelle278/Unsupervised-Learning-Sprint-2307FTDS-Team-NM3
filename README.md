@@ -63,15 +63,15 @@ The data for the MovieLens dataset is maintained by the GroupLens research group
 - **test.csv:** The test split of the dataset. Contains user and movie IDs with no rating data.
 - **train.csv:** The training split of the dataset. Contains user and movie IDs with associated rating data.
 
-### Two-fold approach:
+## Two-fold approach:
 
-**1. Content-based model:**
+### 1. Content-based model:
 
 WatchWiz employs content-based filtering by analyzing user-generated tags, genres, and preferences along with movie attributes. This approach involves weighting features, calculating scores, and generating personalized recommendations based on comprehensive user and content profiles. The integration of user-generated tags ensures a more nuanced and engaging recommendation process, enhancing the app's ability to provide tailored content suggestions.
 
 ![Content](https://github.com/Christelle278/Unsupervised-Learning-Sprint-2307FTDS-Team-NM3/assets/142970095/c404befa-44e0-45c4-9fde-06614924bb60)
 
-**2. Collaborative-based model:**
+### 2. Collaborative-based model:
 
 WatchWiz utilizes collaborative filtering, incorporating both user-based and item-based approaches. By analyzing user behavior and preferences, the app recommends content based on similarities with other users or items that share characteristics with those the user has enjoyed. This dual collaborative filtering strategy enhances the accuracy and diversity of personalized recommendations, providing users with a dynamic and engaging content discovery experience.
 
