@@ -2,7 +2,7 @@
 
 ## Future Forge Software
 
-![Logo white (small)](![Logo](https://github.com/Christelle278/Unsupervised-Learning-Sprint-2307FTDS-Team-NM3/assets/142970095/dfa7ab2f-9068-45f6-9131-66530ff25f0d))
+![Logo](https://github.com/Christelle278/Unsupervised-Learning-Sprint-2307FTDS-Team-NM3/assets/142970095/dfa7ab2f-9068-45f6-9131-66530ff25f0d)
 
 At Future Forge Software, we stand at the forefront of technological evolution, dedicated to shaping the future of software solutions with a specific focus on the entertainment market. As a trailblazing force in the digital landscape, we specialize in harnessing the power of advanced analytics and predictive modeling within the dynamic realm of entertainment.
 
@@ -32,7 +32,7 @@ Aspire to be the driving force behind a world where predictive analytics seamles
 
 ## Our Team:
 
-![team](![Meet the team](https://github.com/Christelle278/Unsupervised-Learning-Sprint-2307FTDS-Team-NM3/assets/142970095/bdb2aedb-52e9-4499-88c4-ca58e25a249f))
+![Meet the team](https://github.com/Christelle278/Unsupervised-Learning-Sprint-2307FTDS-Team-NM3/assets/142970095/bdb2aedb-52e9-4499-88c4-ca58e25a249f)
 
 ## Problem Statement:
 
@@ -66,12 +66,12 @@ The data for the MovieLens dataset is maintained by the GroupLens research group
 **Content-based model:**
 
 WatchWiz employs content-based filtering by analyzing user-generated tags, genres, and preferences along with movie attributes. This approach involves weighting features, calculating scores, and generating personalized recommendations based on comprehensive user and content profiles. The integration of user-generated tags ensures a more nuanced and engaging recommendation process, enhancing the app's ability to provide tailored content suggestions.
-![team](![Content](https://github.com/Christelle278/Unsupervised-Learning-Sprint-2307FTDS-Team-NM3/assets/142970095/c404befa-44e0-45c4-9fde-06614924bb60))
+![Content](https://github.com/Christelle278/Unsupervised-Learning-Sprint-2307FTDS-Team-NM3/assets/142970095/c404befa-44e0-45c4-9fde-06614924bb60)
 
 **Collaborative-based model:**
 
 WatchWiz utilizes collaborative filtering, incorporating both user-based and item-based approaches. By analyzing user behavior and preferences, the app recommends content based on similarities with other users or items that share characteristics with those the user has enjoyed. This dual collaborative filtering strategy enhances the accuracy and diversity of personalized recommendations, providing users with a dynamic and engaging content discovery experience.
-![team](![Colab](https://github.com/Christelle278/Unsupervised-Learning-Sprint-2307FTDS-Team-NM3/assets/142970095/3be6fc56-bcc3-4db9-9c87-25d07926496b))
+![Colab](https://github.com/Christelle278/Unsupervised-Learning-Sprint-2307FTDS-Team-NM3/assets/142970095/3be6fc56-bcc3-4db9-9c87-25d07926496b)
 
 ## Getting Started:
 
