@@ -63,7 +63,7 @@ The data for the MovieLens dataset is maintained by the GroupLens research group
 - **test.csv:** The test split of the dataset. Contains user and movie IDs with no rating data.
 - **train.csv:** The training split of the dataset. Contains user and movie IDs with associated rating data.
 
-## Two-fold approach:
+## Two-Fold Approach:
 
 ### 1. Content-based model:
 
