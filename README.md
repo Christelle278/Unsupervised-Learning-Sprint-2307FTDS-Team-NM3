@@ -83,7 +83,6 @@ The repository contains the following resources:
 
 - `Unsupervised_Learning_Sprint_2307FTDS_Team_NM3` : The notebook in which the preprocessing and modelling takes place. This is also used to produce files for submission to the Kaggle competition.
 - `Required Packages` : Provides a list of libraries that is needed to run the notebook.
-- `svd` : The best model sumission in csv form.
 
 ## Links:
 
